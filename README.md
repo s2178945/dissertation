@@ -1,2 +1,2 @@
 # dissertation
-For the code part I divide it into python part and matlab part. And for the python part, I give it a name code_in_python, and for matlab I call it dissertation.m. I also put all the data I need to use with the csv format.
+The code of the paper mainly includes the construction of multiple regression analysis and gray prediction model using python. In addition, this paper also uses MATLAB to carry out the allocation of different regional asset portfolios to OBMG. For the python code part I call it code_in_python, for the matlab part I call it dissertation.m. The rest of the files are the data needed by the code.
